@@ -1,0 +1,11 @@
+numpy
+flask
+pillow
+gunicorn
+requests==2.22.0
+tensorflow
+opencv-python-headless
+colorama
+ipython
+matplotlib
+tqdm
