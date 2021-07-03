@@ -1,3 +1,8 @@
-# detectron2_web_app
+# Segmentation des paysages urbains
 
-https://towardsdatascience.com/instance-segmentation-web-app-63016b8ed4ae
+## Source de données
+https://www.cityscapes-dataset.com/dataset-overview/
+
+## Démo
+https://streetview.azurewebsites.net/
+
